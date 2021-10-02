@@ -1,2 +1,8 @@
-name: vadivelg's site
+name: Vadivel G's Space
 title: null
+description: Trying to find a way to waste a time.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
