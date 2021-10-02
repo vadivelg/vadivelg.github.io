@@ -1,7 +1,9 @@
 name: Vadivel G's Space
-title: Vadivel G's Space
-description: Trying to find a way to waste a time.
+title: V Home
+email: contact@vadivelg.com
+description: Trying something new.
 baseurl: ""
+twitter_username: thevadivelg
 url: ""
 theme: minima
 plugins:
