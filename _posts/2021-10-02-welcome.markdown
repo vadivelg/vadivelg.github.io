@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2021-10-02 18:43:42 +0530
+categories: welcome
+---
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Stay tuned...<br>I could update brilliantly @ any time...</p>&mdash; Vadivel G (@thevadivelg) <a href="https://twitter.com/thevadivelg/status/26543415426?ref_src=twsrc%5Etfw">October 6, 2010</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
