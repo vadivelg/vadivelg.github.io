@@ -8,7 +8,7 @@ rss: rss
 url: ""
 theme: minima
 header_pages:
-    - about.md
+  - about.md
 defaults:
   - scope:
       path: ""
