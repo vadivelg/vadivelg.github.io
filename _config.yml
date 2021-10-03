@@ -1,10 +1,19 @@
-name: Vadivel G's Space
-title: V Home
+title: The V Space
+author: &anchor_author Vadivel G
 email: contact@vadivelg.com
 description: Trying something new.
 baseurl: ""
 twitter_username: thevadivelg
+rss: rss
 url: ""
 theme: minima
+header_pages:
+    - about.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: *anchor_author
 plugins:
   - jekyll-feed
+  - jemoji

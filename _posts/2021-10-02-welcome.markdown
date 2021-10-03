@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Welcome!"
-date:   2021-10-02 18:43:42 +0530
+layout    : post
+title     :  "Welcome!"
+date      :   2021-10-02 18:43:42 +0530
 categories: welcome
 ---
 

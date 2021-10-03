@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout    : page
+title     : About
+permalink : /about/
 ---
 
-Trying to find a way to waste a time.
+Trying something new.
