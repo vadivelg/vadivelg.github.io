@@ -3,7 +3,6 @@ author: &anchor_author Vadivel G
 email: contact@vadivelg.com
 description: Trying something new.
 baseurl: ""
-twitter_username: thevadivelg
 rss: rss
 url: ""
 theme: minima
